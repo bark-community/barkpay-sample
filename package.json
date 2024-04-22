@@ -1,0 +1,16 @@
+{
+  "name": "react-experess-sample",
+  "version": "1.0.0",
+  "description": "This project is a simple full-stack application using React for the frontend and Express.js for the backend. It demonstrates a basic setup where the frontend interacts with the backend via RESTful API calls.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
